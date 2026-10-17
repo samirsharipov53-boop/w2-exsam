@@ -1,0 +1,14 @@
+C:\Users\Laptop\Desktop\exsam 2\bin\Debug\net10.0\exsam 2.exe
+C:\Users\Laptop\Desktop\exsam 2\bin\Debug\net10.0\exsam 2.deps.json
+C:\Users\Laptop\Desktop\exsam 2\bin\Debug\net10.0\exsam 2.runtimeconfig.json
+C:\Users\Laptop\Desktop\exsam 2\bin\Debug\net10.0\exsam 2.dll
+C:\Users\Laptop\Desktop\exsam 2\bin\Debug\net10.0\exsam 2.pdb
+C:\Users\Laptop\Desktop\exsam 2\obj\Debug\net10.0\exsam 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Desktop\exsam 2\obj\Debug\net10.0\exsam 2.AssemblyInfoInputs.cache
+C:\Users\Laptop\Desktop\exsam 2\obj\Debug\net10.0\exsam 2.AssemblyInfo.cs
+C:\Users\Laptop\Desktop\exsam 2\obj\Debug\net10.0\exsam 2.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\exsam 2\obj\Debug\net10.0\exsam 2.dll
+C:\Users\Laptop\Desktop\exsam 2\obj\Debug\net10.0\refint\exsam 2.dll
+C:\Users\Laptop\Desktop\exsam 2\obj\Debug\net10.0\exsam 2.pdb
+C:\Users\Laptop\Desktop\exsam 2\obj\Debug\net10.0\exsam 2.genruntimeconfig.cache
+C:\Users\Laptop\Desktop\exsam 2\obj\Debug\net10.0\ref\exsam 2.dll
